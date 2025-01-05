@@ -2,6 +2,14 @@
 
 Este repositório é um local para compartilhar meu conhecimento e experiências sobre a biblioteca Pandas, uma ferramenta poderosa para manipulação e análise de dados em Python!
 
+### Aviso!
+
+O arquivo pandas.py foi criado exclusivamente para facilitar a visualização do código e não deve ser utilizado para execução direta. 
+
+Executar esse código todo de uma vez seria desorganizado e poderia resultar em erros (SERIA UM CAOS!! E provavelmente daria conflito), já que ele contém várias operações de manipulação de dados e visualizações que devem ser feitas de forma modular, ou seja, uma célula de cada vez. 
+
+Para uma execução eficiente e sem problemas, recomenda-se utilizar o Jupyter Notebook, onde o código pode ser executado de maneira incremental e organizada.
+
 ### O que é Pandas?
 
 Pandas é uma biblioteca de Python amplamente utilizada para manipulação e análise de dados. Ela oferece estruturas de dados poderosas, como DataFrames e Series, que permitem organizar e trabalhar com dados de maneira eficiente. Com Pandas, é possível realizar tarefas como limpeza de dados, transformação, análise estatística e muito mais de forma simples e intuitiva.
