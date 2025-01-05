@@ -6,7 +6,7 @@ Este repositório é um local para compartilhar meu conhecimento e experiências
 
 O arquivo pandas.py foi criado exclusivamente para facilitar a visualização do código e não deve ser utilizado para execução direta. 
 
-Executar esse código todo de uma vez seria desorganizado e poderia resultar em erros (SERIA UM CAOS!! E provavelmente daria conflito), já que ele contém várias operações de manipulação de dados e visualizações que devem ser feitas de forma modular, ou seja, uma célula de cada vez. 
+Executar esse código todo de uma vez seria desorganizado e poderia resultar em erros (CAOS!), já que ele contém várias operações de manipulação de dados e visualizações que devem ser feitas de forma modular, ou seja, uma célula de cada vez. 
 
 Para uma execução eficiente e sem problemas, recomenda-se utilizar o Jupyter Notebook, onde o código pode ser executado de maneira incremental e organizada.
 
